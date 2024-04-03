@@ -1,0 +1,79 @@
+.fundo {
+  background-color: rgb(255, 236, 197);
+}
+#image {
+  max-width: 330px;
+  margin: auto;
+  display: block;
+  border-radius: 10px;
+}
+
+hr {
+  max-width: 330px;
+}
+
+.painel {
+  background-color: rgb(255, 251, 235);
+  color: rgb(82, 51, 15);
+  text-align: left;
+  max-width: 375px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.header {
+  font-family: Young Serif;
+  margin-bottom: -5px;
+  padding-left: 20px;
+}
+
+.content {
+  font-family: Outfit;
+  font-size: 13px;
+  padding-left: 20px;
+}
+
+#timep {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-bottom: 1px;
+  border-radius: 8px;
+  background-color: rgba(119, 211, 100, 0.342);
+  color: rgba(36, 88, 16, 0.767);
+}
+
+ul {
+  font-family: Outfit;
+  font-size: 13px;
+}
+
+.table_no_point {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  font-family: Outfit;
+  font-size: 13px;
+  padding-left: 25px;
+}
+
+.item_table {
+  max-width: 230px;
+  margin-right: 20px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  background-color: rgb(241, 224, 128);
+}
+
+.quantidade {
+  display: flex;
+  flex-direction: row-reverse;
+  padding-top: -20px;
+}
+
+ol {
+  font-family: Outfit;
+  font-size: 13px;
+  padding-right: 20px;
+}
