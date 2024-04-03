@@ -1,1 +1,1 @@
-Site de desafios utilizando Html e CSS
+Site de un desafio proposto utilizando HTML e CSS
